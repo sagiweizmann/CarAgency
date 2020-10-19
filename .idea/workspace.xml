@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8188e18-e0d1-4344-bba2-abe6e9314543" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CarAgency$MainGui.ic" NAME="MainGui Coverage Results" MODIFIED="1528705151983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>gui.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Singleton" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>add</find>
+      <find>chooseima</find>
+      <find>640</find>
+      <find>480</find>
+      <find>revalidate</find>
+      <find>is pa</find>
+      <find>back</find>
+      <find>MainFrame.setVisible(false);</find>
+      <find>MainFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);</find>
+      <find>bgPanel.add(JBack);</find>
+      <find>JOptionPane.showMessageDialog(MainFrame, &quot;Added Successfully&quot;);</find>
+      <find>mainf</find>
+      <find>watervehicles1</find>
+      <find>\n</find>
+      <find>MainFrame</find>
+      <find>gameg</find>
+      <find>insertion</find>
+      <find>reset</find>
+      <find>font</find>
+      <find>menu</find>
+      <find>Menu</find>
+      <find>Hashtable&lt;Double,Vehicle &gt; CarAgency,</find>
+      <find>va</find>
+      <find>v</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>MainGui.height</replace>
+      <replace>&lt;br&gt;</replace>
+      <replace>this</replace>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\sagiw\IdeaProjects\CarAgency</dir>
+      <dir>C:\Users\sagiw\IdeaProjects\CarAgency\src</dir>
+      <dir>C:\Users\sagiw\IdeaProjects\CarAgency\src\gui</dir>
+    </dirStrings>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectId" id="1j6DWfswalCCWdC5TrIJeCUmMnH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/New folder" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sagiw\IdeaProjects\CarAgency" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="factory" />
+      <recent name="interfaces" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sagiw\IdeaProjects\CarAgency\src" />
+      <recent name="C:\Users\sagiw\IdeaProjects\CarAgency\res" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainGui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.MainGui" />
+      <module name="CarAgency" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainGui" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8188e18-e0d1-4344-bba2-abe6e9314543" name="Default" comment="" />
+      <created>1527265591809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527265591809</updated>
+      <workItem from="1527265596025" duration="815000" />
+      <workItem from="1527266486480" duration="975000" />
+      <workItem from="1527313610866" duration="573000" />
+      <workItem from="1527317429026" duration="727000" />
+      <workItem from="1527330758881" duration="6442000" />
+      <workItem from="1527344025519" duration="3080000" />
+      <workItem from="1527405379179" duration="3651000" />
+      <workItem from="1527427536948" duration="697000" />
+      <workItem from="1527497154670" duration="1545000" />
+      <workItem from="1527578630880" duration="12561000" />
+      <workItem from="1527672731380" duration="8830000" />
+      <workItem from="1527691059193" duration="4098000" />
+      <workItem from="1527758611435" duration="1702000" />
+      <workItem from="1527762624320" duration="10876000" />
+      <workItem from="1527852785388" duration="1924000" />
+      <workItem from="1527935154850" duration="6134000" />
+      <workItem from="1527961770799" duration="5560000" />
+      <workItem from="1528003638304" duration="11399000" />
+      <workItem from="1528180303389" duration="649000" />
+      <workItem from="1528284440925" duration="8242000" />
+      <workItem from="1528634174853" duration="4320000" />
+      <workItem from="1528647646651" duration="627000" />
+      <workItem from="1528702589591" duration="12765000" />
+      <workItem from="1528732011121" duration="599000" />
+      <workItem from="1528787973787" duration="3580000" />
+      <workItem from="1528872493529" duration="4718000" />
+      <workItem from="1528888039775" duration="9259000" />
+      <workItem from="1528960058040" duration="3021000" />
+      <workItem from="1529052675540" duration="3079000" />
+      <workItem from="1529158029544" duration="1749000" />
+      <workItem from="1529243508310" duration="381000" />
+      <workItem from="1529255228836" duration="126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="134704000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2005" height="131" key="GridCell.Tab.0.bottom" timestamp="1603116407941">
+      <screen x="0" y="0" width="2048" height="824" />
+    </state>
+    <state width="2005" height="131" key="GridCell.Tab.0.bottom/0.0.2048.824@0.0.2048.824" timestamp="1603116407941" />
+    <state width="2005" height="131" key="GridCell.Tab.0.center" timestamp="1603116407941">
+      <screen x="0" y="0" width="2048" height="824" />
+    </state>
+    <state width="2005" height="131" key="GridCell.Tab.0.center/0.0.2048.824@0.0.2048.824" timestamp="1603116407941" />
+    <state width="2005" height="131" key="GridCell.Tab.0.left" timestamp="1603116407941">
+      <screen x="0" y="0" width="2048" height="824" />
+    </state>
+    <state width="2005" height="131" key="GridCell.Tab.0.left/0.0.2048.824@0.0.2048.824" timestamp="1603116407941" />
+    <state width="2005" height="131" key="GridCell.Tab.0.right" timestamp="1603116407941">
+      <screen x="0" y="0" width="2048" height="824" />
+    </state>
+    <state width="2005" height="131" key="GridCell.Tab.0.right/0.0.2048.824@0.0.2048.824" timestamp="1603116407941" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/classes/Main.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>CarAgency</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
